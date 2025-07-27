@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **React**
 
-- 👨‍💻 All of my projects are available at [https://birtukank.github.io/My-portfolio/](https://birtukank.github.io/My-portfolio/)
+- 👨‍💻 All of my projects are available at [https://birtukank.github.io/Personal-portfolio/](https://birtukank.github.io/Personal-portfolio/)
 
 - 💬 Ask me about **JavaScript, Python, SQL**
 
